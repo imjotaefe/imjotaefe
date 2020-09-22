@@ -9,4 +9,4 @@
 - 📫 How to reach me: jotaefegds@gmail.com
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=imjotaefe&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/luizeduul/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=imjotaefe&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/imjotaefe)
