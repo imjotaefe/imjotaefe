@@ -10,3 +10,5 @@
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=imjotaefe&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/imjotaefe)
+
+###### !!! I'M USING MY READMEs TO PRACTICE MY ENGLISH WRITE. PLEASE CORRECT ME IF I'M WRONG !!!
