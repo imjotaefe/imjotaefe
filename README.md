@@ -5,7 +5,6 @@
 ### About me
 - ⚡ I’m currently learning React, React Native and NodeJs
 - 🔭 I intend to learn with people and teach them with that I know
-- 🎓 I'm finishing my college of Software Engineer
 - 📫 How to reach me: jotaefegds@gmail.com
 
 
