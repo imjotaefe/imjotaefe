@@ -4,8 +4,8 @@
 
 ### About me
 --- I'm studying about the Game Developing --- 
-🕹️I'm currently learning about C# and Unity
-🎯My next step is study about C++ and Unreal
+-🕹️I'm currently learning about C# and Unity
+-🎯My next step is study about C++ and Unreal
 - 📫 How to reach me: jotaefegds@gmail.com
 
 --- I also have knowledge / 2y experience about ---
