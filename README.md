@@ -5,7 +5,7 @@
 - 🕹️I'm currently learning about C# and Unity
 - 🎯My next step is study about C++ and Unreal
 
---- I also have knowledge / 2y experience about ---
+--- I also have 2y of experience/knowledge about ---
 - Javascript
 - ReactJs
 - NodeJs
