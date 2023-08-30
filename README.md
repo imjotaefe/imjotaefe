@@ -6,8 +6,11 @@
 - 🎯My next step is study about C++ and Unreal
 
 --- I also have 2y of experience/knowledge about ---
-- Javascript
+- Typescript
 - ReactJs
+- React-Native
+- AdonisJs
+- NestJs
 - NodeJs
 - NextJs
 
