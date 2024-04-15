@@ -2,7 +2,7 @@
 
 ### About me
 --- I'm studying about the Game Developing --- 
-- 🕹️I'm currently learning about C# and Unity
+- 🕹️I'm currently working with C# and Unity and NestJs.
 - 🎯My next step is study about C++ and Unreal
 
 --- I also have 2y of experience/knowledge about ---
