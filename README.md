@@ -1,18 +1,6 @@
 ## Hi, I'm João Fernando 🚀
 
-### About me
---- I'm studying about the Game Developing --- 
-- 🕹️I'm currently working with C# and Unity and NestJs.
-- 🎯My next step is study about C++ and Unreal
-
---- I also have 2y of experience/knowledge about ---
-- Typescript
-- ReactJs
-- React-Native
-- AdonisJs
-- NestJs
-- NodeJs
-- NextJs
+I spent the last 5 years developing differente kind of projects. I have worked with big and small teams, big and small projects. So I have some experience on hand in products, independent of the variables. I developed mobile apps, landing pages, web systems, backends and some games. And because of that, I have experience since from the idea of a project until to build and upload that on a store. 
 
 📫 How to reach me: jotaefegds@gmail.com
 
