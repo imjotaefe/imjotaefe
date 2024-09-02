@@ -28,14 +28,6 @@ I'm an explorer of tech, and a problem-solver. When I'm not in code, you'll find
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,cypress,nextjs,vite,vitest,nodejs,express,graphql,nestjs,prisma,html,jest,styledcomponents,tailwind,bootstrap,css,aws,mongodb,mysql,postgres,firebase,linux,git,docker,cs,unity,rider,gamemakerstudio,ps,obsidian,notion,arduino)](https://skillicons.dev)
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imjotaefe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjotaefe&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
 ###### !!! I'M USING MY READMEs TO PRACTICE MY ENGLISH WRITE. PLEASE CORRECT ME IF I'M WRONG !!!
 
 
