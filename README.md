@@ -5,7 +5,11 @@
 
 ### Glad to see you here!
 
-I spent my last 5 years developing different kind of projects. I have worked with big and small teams, big and small projects. So I have some experience on hand in products, independent of the variables. I developed mobile apps, landing pages, web systems, backends and some games. And because of that, I have experience since from the idea of a project until to build and upload that on a store. 
+Full Stack Software Developer with 5 years of experience, specialized in delivering high-quality and scalable solutions.
+
+I hold a degree in Software Engineering from UTFPR, where I built the foundation of my knowledge using Java, and I am currently pursuing an MBA in Full Stack Development at Rocketseat + Sírius, focused on the JavaScript stack.
+
+My core competency is system integration using REST APIs, with an emphasis on microservices architectures.
 
 I'm an explorer of tech, and a problem-solver. When I'm not in code, you'll find me playing some instrument.
 
