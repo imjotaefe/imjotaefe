@@ -25,7 +25,7 @@ I'm an explorer of tech, and a problem-solver. When I'm not in code, you'll find
 ### My Favorites:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Banjo.png" alt="Banjo" width="35" height="35" /> &nbsp; I really like music.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> &nbsp; Some times I like to create games.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> &nbsp; Sometimes I like to create games.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" height="35" /> &nbsp; Reading and writing when it is possible.
 
 ### Languages and Tools:
