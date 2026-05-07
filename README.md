@@ -1,36 +1,65 @@
-## Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="50" height="50" />, I'm [Jotaefe!](https://imjotaefe.com.br/)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+Software Engineer focused on Software Architecture, Scalable Systems, and Modern Platform Engineering.
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/imjotaefe)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3oofernando/)
+I have 5+ years of experience building scalable applications across web, mobile, and cloud environments, contributing to projects for companies such as Cielo, Stone, and International School.
 
-### Glad to see you here!
+My background combines strong software engineering fundamentals with practical experience designing reliable systems, improving maintainability, and delivering business-oriented solutions.
 
-Full Stack Software Developer with 5 years of experience, specialized in delivering high-quality and scalable solutions.
+Currently specializing in:
 
-I hold a degree in Software Engineering from UTFPR, where I built the foundation of my knowledge, and I am currently pursuing an MBA in Full Stack Development at Rocketseat + Sírius, focused on the JavaScript stack.
+* Software Architecture
+* Distributed Systems
+* Cloud-Native Applications
+* AI applied to Software Engineering
+* Scalable Backend Platforms
 
-I'm an explorer of tech, and a problem-solver. When I'm not in code, you'll find me playing some instrument.
+## Engineering Principles
 
-<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* Scalability & Reliability
+* Observability
+* Performance-oriented systems
+* Continuous Delivery
+* Technical Excellence
 
-### Personal Stuff:
+## Core Technologies
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Medium%20Skin%20Tone.png" alt="Astronaut Medium Skin Tone" width="35" height="35" /> &nbsp; I’m currently working with React, NextJs, NestJs, AWS, etc.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> &nbsp; I’m currently improving my skills from MBA FULL STACK - ROCKETSEAT.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="35" height="35" /> &nbsp; Ask me anything [here](https://github.com/imjotaefe/imjotaefe/issues/)! I am glad to help.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="35" height="35" /> &nbsp; Reach me out: jotaefegds@gmail.com.
+### Backend
 
-### My Favorites:
+* NestJS
+* Node.js
+* TypeScript
+* GraphQL
+* REST APIs
+* PostgreSQL
+* MongoDB
+* Prisma / TypeORM
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Banjo.png" alt="Banjo" width="35" height="35" /> &nbsp; I really like music.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" height="35" /> &nbsp; Sometimes I like to create games.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="35" height="35" /> &nbsp; Reading and writing when it is possible.
+### Frontend
 
-### Languages and Tools:
+* React.js
+* Next.js
+* React Native
+* Expo
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,cypress,nextjs,vite,vitest,nodejs,express,graphql,nestjs,prisma,html,jest,styledcomponents,tailwind,bootstrap,css,aws,mongodb,mysql,postgres,firebase,linux,git,docker,cs,unity,rider,gamemakerstudio,ps,obsidian,notion,arduino)](https://skillicons.dev)
+### Cloud & DevOps
 
-###### !!! I'M USING MY READMEs TO PRACTICE MY ENGLISH WRITE. PLEASE CORRECT ME IF I'M WRONG !!!
+* AWS
+* Docker
+* GitHub Actions
+* CI/CD Pipelines
 
+## Current Focus
 
+Designing scalable architectures and improving expertise in AI-driven software engineering and modern distributed systems.
 
+## Education
+
+* B.Sc. in Software Engineering — UTFPR
+* MBA in Full Stack Development — Rocketseat + Sírius
+* Specialization in AI applied to Software Development (2025–2026)
+
+## Contact
+
+* LinkedIn: [João Fernando](https://www.linkedin.com/in/jo%C3%A3oofernando/)
+* Email: [jotaefegds@gmail.com](mailto:jotaefegds@gmail.com)
